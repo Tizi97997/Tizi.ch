@@ -1,1 +1,2 @@
-# Tizi.ch
+# Tizi's portfolio
+HTML ONLY
